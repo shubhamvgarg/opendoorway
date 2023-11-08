@@ -61,3 +61,7 @@ User can create account using google authentication or by email.
 
 Once a profile is created user can list there property under profile section.
 ![image](https://github.com/shubhamvgarg/opendoorway/assets/48384772/69cf06fa-d9f4-4316-a471-662f77cc04f8)
+
+## Give a try [here](https://opendoorway.onrender.com/)
+Username: testuser
+Password: testuser
